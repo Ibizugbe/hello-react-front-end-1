@@ -36,7 +36,7 @@ export default function Greetings() {
   }
   return (
     <div>
-      <q >{quote.message}</q>
+      <q>{quote.message}</q>
     </div>
   );
 }
