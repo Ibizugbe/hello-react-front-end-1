@@ -11,6 +11,9 @@
 - Clone this repo
 - Go to the correct directory
 - run `npm install`
+## Link for the back-end App
+
+- [Hello-rails-back-end](https://github.com/ChrispaixK/hello-rails-back-end) 
 
 ## Authors
 
