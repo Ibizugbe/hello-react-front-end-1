@@ -1,5 +1,5 @@
 # hello-react-front-end
-> This is a front end application which fetch data from another backend app and display data from the API
+> This is a front end application which fetch data from another backend application and display data from the API
 
 ## Built With
 
